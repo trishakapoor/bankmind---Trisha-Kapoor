@@ -1,1 +1,6 @@
-
+age,job,marital,education,balance,housing,loan,predicted,probability_yes,actual
+44,technician,married,tertiary,1146,no,no,yes,0.559,no
+29,management,single,tertiary,572,yes,no,yes,0.69,yes
+30,blue-collar,single,secondary,2380,no,no,no,0.465,no
+29,management,single,tertiary,475,no,no,no,0.383,no
+46,management,married,tertiary,1698,yes,no,no,0.402,no
